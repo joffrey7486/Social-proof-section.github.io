@@ -13,8 +13,8 @@ body{
     justify-content: center;
     align-items: center;
     background-image: 
-        url(/images/bg-pattern-top-desktop.svg),
-        url(/images/bg-pattern-bottom-desktop.svg);
+        url(https://raw.githubusercontent.com/joffrey7486/Social-proof-section.github.io/d75a0d53a7eaea64eb9f5c6c070b0bb57f4b81c6/images/bg-pattern-top-desktop.svg),
+        url(https://raw.githubusercontent.com/joffrey7486/Social-proof-section.github.io/d75a0d53a7eaea64eb9f5c6c070b0bb57f4b81c6/images/bg-pattern-bottom-desktop.svg);
     background-position: 
         right calc(40vw + 15%) bottom calc(84vh - 15vw), 
         left calc(17vw + 25%) top calc(48vh - 15vw);
@@ -145,8 +145,8 @@ body{
     .main{
         display: block;
         background-image: 
-        url(/images/bg-pattern-top-mobile.svg),
-        url(/images/bg-pattern-bottom-mobile.svg);
+        url(https://raw.githubusercontent.com/joffrey7486/Social-proof-section.github.io/d75a0d53a7eaea64eb9f5c6c070b0bb57f4b81c6/images/bg-pattern-top-mobile.svg),
+        url(https://raw.githubusercontent.com/joffrey7486/Social-proof-section.github.io/d75a0d53a7eaea64eb9f5c6c070b0bb57f4b81c6/images/bg-pattern-bottom-mobile.svg);
         display: block;
         background-position: right calc(-26vw + 15%) bottom calc(85vh - 17vw), left calc(0vw + 25%) top calc(113vh - 15vw);
         background-repeat: no-repeat;
