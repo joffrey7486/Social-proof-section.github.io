@@ -141,7 +141,7 @@ body{
     color: hsl(228, 45%, 44%);
 }
 
-@media (max-width: 375px) {
+@media (max-width: 620px) {
     .main{
         display: block;
         background-image: 
