@@ -144,6 +144,13 @@ body{
     .container{
         width: 850px;
     }
+    .comment{
+        margin: 0px 20px 0 0;
+    }
+    .comment {
+    width: 340px;
+    margin: 0 40px 0 0;
+    }
 }
 @media (max-width: 620px) {
     .main{
