@@ -189,3 +189,13 @@ body{
     }
     .attribution{top: 515px;}
 }
+@media (max-height: 650px) {
+    .main{
+        height: 120vh;
+    }
+}
+@media (max-height: 400px) {
+    .main{
+        height: 180vh;
+    }
+}
